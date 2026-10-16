@@ -1,4 +1,4 @@
-# Task Tracker (JTRONIX Frontend Internship Assessment)
+# Task Tracker 
 
 A React + Vite Task Tracker covering all three questions.
 
